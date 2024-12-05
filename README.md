@@ -5,7 +5,7 @@ Exclusive and free program, promoted by Rocketseat for teaching WEB technologies
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Study this project in video format by clicking here.</a>
 </p>
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="./assets/Cover.jpg" alt="Exemplo imagem">
 
 The project, developed as part of the Discover course by Rocketseat, showcases a comprehensive application of foundational web development technologies: HTML, CSS, and JavaScript. It serves as a practical implementation of key concepts learned throughout the course.
 

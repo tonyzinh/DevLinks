@@ -37,7 +37,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: auto;
   margin-top: 56px;
 }
@@ -60,7 +61,7 @@ body * {
 #verificado img {
   position: relative;
   bottom: 18px;
-  left: 110px;
+  left: 57px;
   width: 16px;
   height: 16px;
 }
